@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\bin\Debug\CentroComercial.exe.config
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\bin\Debug\CentroComercial.exe
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\bin\Debug\CentroComercial.pdb
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.Form1.resources
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.Properties.Resources.resources
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.UserControl1.resources
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.UserControl2.resources
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.exe
+C:\Users\Acer\source\repos\CentroComercial\CentroComercial\obj\Debug\CentroComercial.pdb
